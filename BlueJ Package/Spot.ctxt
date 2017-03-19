@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Spot()
+comment1.params=bombs\ totalSpots
+comment1.target=Spot(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkWin()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=java.lang.String\ getType()
+comment6.params=type
+comment6.target=void\ setType(java.lang.String)
+comment7.params=
+comment7.target=void\ uncover()
+comment8.params=
+comment8.target=void\ uncoverAll()
+numComments=9

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=contents
+comment0.target=First(java.lang.String)
+comment1.params=a\ b
+comment1.target=First(int,\ int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=void\ toggleFlag()
+comment5.params=
+comment5.target=void\ uncover()
+numComments=6

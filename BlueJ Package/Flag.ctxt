@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=contents
+comment0.target=Flag(java.lang.String)
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=void\ toggleFlag()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ fillGrid()
+comment2.params=nums
+comment2.target=int\ countBombs(int[])
+comment3.params=l
+comment3.target=int[]\ findSurroundingBombs(info.gridworld.grid.Location)
+comment4.params=
+comment4.target=void\ fillGridWithBombs()
+numComments=5
